@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">clicker</string>
+    <string name="click_me">Нажми меня</string>
+    <string name="Clicks">Кнопка нажата 0 раз</string>
+    <string name="Back">Назад</string>
+    <string name="Restart">Сбросить</string>
+</resources>
+
